@@ -14,7 +14,7 @@
         app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/firestore"
-        android:icon="@drawable/baseline_add_24"
+        android:icon="@drawable/baseline_publish_24"
         android:title=" "
         app:showAsAction="ifRoom"/>
 </menu>
