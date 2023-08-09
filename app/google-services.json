@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887110878477",
+    "project_id": "firestore-e52ad",
+    "storage_bucket": "firestore-e52ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887110878477:android:773b6d8dcc588b2a6e9c44",
+        "android_client_info": {
+          "package_name": "com.vladv.localbasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887110878477-n1ov655qh2dpqm85u3a4joc50q4kbosm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvao17hafDewVurFVSd2Fj3S0a3q_UvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887110878477-n1ov655qh2dpqm85u3a4joc50q4kbosm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //add colors
+    <color name="primary_text">#291F66</color>
+    <color name="secondary_text">#8897B7</color>
+    <color name="accent_1">#664DFF</color>
+    <color name="accent_2">#C0B6FF</color>
+    <color name="accent_3">#F0EDFF</color>
+    <color name="gray_1">#E1E3EB</color>
+    <color name="background_1">#FFFFFF</color>
+    <color name="background_2">#F6F6FF</color>
+    <color name="red">#FF2121</color>
+    <color name="status_green">#BDFFE2</color>
+</resources>
